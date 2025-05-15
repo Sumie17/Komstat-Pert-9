@@ -1,0 +1,5 @@
+head(AirPassengers, 10)
+tail(AirPassenger, 10)
+str(AirPassengers)
+summary(AirPassengers)
+hist(AirPassengers)
